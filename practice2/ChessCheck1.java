@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-ublic class ChessCheck1 {
+public class ChessCheck1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
